@@ -1,0 +1,32 @@
+table { 
+    border-collapse: collapse; 
+    margin: 0 auto; 
+}
+td { 
+    width: 50px; 
+    height: 50px; 
+    text-align: center; 
+    border: 1px solid black; 
+}
+body { 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0; 
+    padding-top: 10%; }
+h1 { 
+    text-align: center; 
+}
+button { 
+    width: 100%; 
+    height: 100%;
+    font-size: x-large;
+}
+
+button[name="reset"] {
+    width: 100%; 
+    height: 20%;
+    font-size: large;
+}
