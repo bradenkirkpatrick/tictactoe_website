@@ -1,6 +1,6 @@
 # Installation
 
--install go
+- install go
 
 # Operation
 
