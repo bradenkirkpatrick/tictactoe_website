@@ -1,3 +1,7 @@
+# Installation
+
+-install go
+
 # Operation
 
 ## Running Website
